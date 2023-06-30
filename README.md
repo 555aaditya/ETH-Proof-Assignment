@@ -47,7 +47,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 }
 ```
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is `compiled`, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 Once the contract is deployed, you can interact with it by calling the mint and burn functions. You can add and subtract tokens using the dropdown menu along the mint and burn functions and entering the value to be operated.
 
 # Author
